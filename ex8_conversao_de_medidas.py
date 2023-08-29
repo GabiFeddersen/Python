@@ -2,6 +2,6 @@
 
 metros = float(input('Digite a metragem: '))
 cm = metros * 100
-ml = metros *1000
+mm = metros *1000
 print(f'{metros:.2f} metros possui {cm:.2f} centimetros')
-print(f'{metros:.2f} metros possui {ml:.2f} melimetros')
+print(f'{metros:.2f} metros possui {mm:.2f} melimetros')    
